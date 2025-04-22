@@ -1,18 +1,13 @@
 # Web3-game in Avanache network
 
 <h1>To run the front end </h1>
-<code> cd client
 
-</code>
+<code>cd client</code>
 
-<code>npm i && npm run dev
+<code>npm i && npm run dev</code>
 
-</code>
 Game flow:
-<li>
- 
-1. Player enters the player name
-</li>
+<li>1. Player enters the player name</li>
 <li>2. If player already exists, Redirected to the battle page</li>
 <li>3. Player creates a battle room and joins it.</li>
 <li>4. Another player joins the same battle room by clicking join button.</li>
@@ -29,5 +24,6 @@ Stacks used:
 <li>ethersJS</li>
 
 Hosted Link: 
+
 https://nft-web3-card-game.netlify.app/
 
